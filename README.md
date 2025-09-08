@@ -6,9 +6,14 @@
 
 TBA
 
-## References
+## Literatures
 
-TBA
+- **Writing a C Compiler, No Starch Press (2024).**
+- Engineering a Compiler (3rd Edition), Morgan Kaufmann (2022).
+- Compilers: Principles, Techniques, and Tools (2nd Edition), Addison Wesley (2006).
+- Compiler Construction: Principles and Practice, Cengage Learning (1997).
+- LLVM Code Generation: A deep dive into compiler backend development, Packt (2025).
+- Writing A Compiler In Go, Thorsten Ball (2018).
 
 ## How To Contribute
 
