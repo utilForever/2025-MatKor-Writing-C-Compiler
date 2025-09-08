@@ -2,9 +2,11 @@
 
 2025-MatKor-Writing-C-Compiler is the material(lecture notes, examples and assignments) repository for making C compiler that I'll teach the club 'MatKor' at Korea University in 2025 Fall.
 
-## Contents
+## Schedule
 
-TBA
+Date | Description | Course Materials | Events | Deadlines
+:---: | :---: | :---: | :---: | :---:
+09/09 | Lecture 0: Introduction
 
 ## Literatures
 
