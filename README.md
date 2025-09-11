@@ -6,7 +6,7 @@
 
 Date | Description | Course Materials | Events | Deadlines
 :---: | :---: | :---: | :---: | :---:
-09/09 | Lecture 0: Introduction [[slide]](./1%20-%20Lecture/250909%20-%20Writing%20a%20C%20Compiler,%20Lecture%200.pdf)
+09/09 | Lecture 0: Introduction [[slide]](./1%20-%20Lecture/250909%20-%20Writing%20a%20C%20Compiler,%20Lecture%200.pdf) [[video]](https://youtu.be/YZ9kQ11p9f4)
 
 ## Literatures
 
